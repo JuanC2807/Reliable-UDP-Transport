@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Generated output
+output.txt
+*-log.txt
+sender-log.txt
+receiver-log.txt
+
+# Editors
+.vscode/
+.idea/
+
+# Archives / submission files
+*.zip
+
+# Backup files
+*~
